@@ -102,7 +102,12 @@ public class LogAopAction {
 			//			// 将上面获取到的请求路径 设为请求路径
 			//			logBo.setActionurl(actionUrl);
 			try {
+				//环绕前
+				System.out.println("环绕前");
+
 				object = pjp.proceed();
+				//环绕后
+				System.out.println("环绕后");
 				//接受客户端的数据
 				Map<String, String[]> map = request.getParameterMap();
 				// 解决获取参数乱码
