@@ -10,17 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaa72fb-546c-4cca-883e-a9c4b4cb40b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aoptest/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/annotation/LogAopAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/annotation/OptionalLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/statics/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aoptest/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/annotation/LogAopAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/annotation/LogAopAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/aoptest/src/main/java/com/gr/controller/DemoController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625022413631</updated>
-      <workItem from="1625022415727" duration="7302000" />
+      <workItem from="1625022415727" duration="9025000" />
     </task>
     <servers />
   </component>
